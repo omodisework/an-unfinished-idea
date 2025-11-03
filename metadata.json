@@ -1,0 +1,5 @@
+{
+  "name": "Personal Portfolio Generator",
+  "description": "A web application that helps users dynamically generate and preview a personal portfolio website by inputting project details, leveraging the Gemini API for content generation, and providing an option to download the structured portfolio data.",
+  "requestFramePermissions": []
+}
